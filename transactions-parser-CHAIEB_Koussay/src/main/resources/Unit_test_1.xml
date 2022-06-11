@@ -1,0 +1,35 @@
+<TransactionList>
+    <Transaction>
+        <Description>retrait d'espèces</Description>
+        <Direction>Debit</Direction>
+        <Amount>
+            <Value>150</Value>
+            <Currency>TND</Currency>
+        </Amount>
+    </Transaction>
+    <Transaction>
+        <Description>Salaire</Description>
+        <Direction>Credit</Direction>
+        <Amount>
+            <Value>1000</Value>
+            <Currency>EUR</Currency>
+        </Amount>
+    </Transaction>
+    <Transaction>
+        <Description>Paiement de factures </Description>
+        <Direction>Debit</Direction>
+        <Amount>
+            <Value>20</Value>
+            <Currency>JOD</Currency>
+        </Amount>
+    </Transaction>
+    <Transaction>
+        <Description>Salaire</Description>
+        <Direction>Credit</Direction>
+        <Amount>
+            <Value>10000</Value>
+            <Currency>YEN</Currency>
+        </Amount>
+    </Transaction>
+    
+</TransactionList>
